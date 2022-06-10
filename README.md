@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redmecha.
+- 👋 Hi, I’m @Ginamahre.
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning Javascript, C++, & Python.
 - 💞️ I’m looking to collaborate on Game Jams.
